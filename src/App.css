@@ -1,0 +1,27 @@
+.formLine {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    line-height: 6vh;
+    margin: 1vh 0
+}
+
+.inputStyle {
+    width: 80% !important
+}
+
+.descriptionsItem {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 2vh;
+    border: 1px solid gainsboro;
+}
+
+.spanMargin {
+    margin-right: 20px
+}
+
+.spanText {
+    color: #000;
+    text-decoration: underline
+}
